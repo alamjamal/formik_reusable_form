@@ -10,4 +10,7 @@ Add MUI components: Use MUI components to style and lay out the form fields. You
 
 Make the form component reusable: Finally, create a reusable form component that can be used throughout your application. This can be done by passing in props that define the form fields and validation schema and using them to dynamically generate the form.
 
+![alt text](https://github.com/alamjamal/formik_reusable_form/blob/main/public/Screenshot%20(3).png)
+
+
 https://alamjamal.hashnode.dev/react-formik-mui-reusable-component-form
